@@ -1,0 +1,7 @@
+[package]
+name = "c4ai"
+version = "0.1.0"
+authors = ["Hannes Karppila <hannes.karppila@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
